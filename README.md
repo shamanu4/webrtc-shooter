@@ -1,5 +1,5 @@
-# webrtc-shooter
-A short experiment on making peer to peer game with webrtc and impactjs
+# webrtc-shooter. Forked by Player 827 =)
+A short experiment on making peer to peer game with webrtc and impactjs. 
 
 # how to test it
 
